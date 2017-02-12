@@ -1,12 +1,15 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
+
+
+
 import './App.css';
 
 class App extends Component {
   render() {
 
     let fun = () => { return 1 }
-
+    let a = '' + 'hello'
     return (
 
 
